@@ -1,0 +1,11 @@
+ilk önce pc'nizde python yoksa python indirin. https://www.python.org/downloads/
+
+Python'u kurarken ilk sayfada alttaki "Add Python 3.10 to Path" Seçeneğini tikleyin
+Sonrasında kurmaya devam edebilirsiniz
+
+Python'u kurduktan sonra install.bat'ı çalıştırınız.
+Gerekli modülleri indirdikten sonra program kendi kendine kapanıcaktır.
+
+Programı başlatmak için start.bat'ı açınız.
+
+İyi kullanımlar. :)
